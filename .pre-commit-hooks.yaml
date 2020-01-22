@@ -1,0 +1,8 @@
+-   id: zipper
+    name: wdlzipper
+    description: This builds a zip archive for import purposes
+    entry: zipper.sh
+    language: script
+    always_run: true
+    verbose: true
+
